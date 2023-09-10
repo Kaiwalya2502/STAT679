@@ -11,7 +11,7 @@ theme_set(theme_minimal())
 ### Exercise Review [Student Exercise Analysis]
 
 The data
-[here](https://raw.githubusercontent.com/krisrs1128/stat679_code/main/examples/week1/formulating_questions.csv)
+[here](https://github.com/krisrs1128/stat992_f23/raw/main/activities/week1/data/formulating_questions.csv)
 give an (anonymized) summary of responses to the [Formulating Questions]
 exercise, given by students in Stat 679 / 992 in Fall 2022. It describes the
 dataset topic, its source, the submitted visualization type, and the software

@@ -216,6 +216,8 @@ Let's analyze the exercise results together.
 
 [https://go.wisc.edu/fzn067](https://go.wisc.edu/fzn067)
 
+We'll also see how you can submit results using Rmarkdown.
+
 ---
 
 ### Exercise 1.1

@@ -190,10 +190,9 @@ interested in this dataset? Please provide a link, so we can refer to the data i
 
 ### Announcements
 
-1. Office hours will be held ... 
-
-These
-sessions will be hybrid -- you can join in person at MSC 7225C or through Zoom.
+1. Office hours will be held Mondays 3:15 - 4:30pm and Wednesdays 10am -
+11:15am. You can join in person at Medical Sciences Center 7225C or through
+Zoom.
 
 1. The description for how to form groups is in Project Milestone 0. If you do
 not form a team by the deadline, you will be randomly assigned one.

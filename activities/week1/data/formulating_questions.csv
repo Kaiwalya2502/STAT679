@@ -13,3 +13,10 @@ HR Analytics Attrition,https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-anal
 Spotify 2023,NA,NA,entertainment,How do song ratings relate to release year?,multicolor boxplot,seaborn,9/7/23
 Avocado Prices,https://www.kaggle.com/datasets/neuromusic/avocado-prices?resource=download,Kaggle,economics,What is the spatial variation in avocado sales?,map,Google Sheets,9/8/23
 Tornados,https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-05-16/readme.md,TidyTuesday,science,Which states have the most tornados?,barplot,ggplot2,9/8/23
+Douban Movie Reviews,https://www.kaggle.com/datasets/utmhikari/doubanmovieshortcomments,Kaggle,entertainment,How do movie ratings change over time?,line plot,matplotlib,9/10/23
+Flight Delays,https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset,Kaggle,economics,Which countries have the most on-time flights?,line plot,matplotlib,9/10/23
+Supermarket Sales,https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales,Kaggle,economics,What are trends in supermarket sales?,multicolor line plot,Google Data Studio,9/11/23
+Iris,https://archive.ics.uci.edu/dataset/53/iris,UCI,science,How do Iris flower features vary across species?,scatterplot pairs plot,matplotlib,9/11/23
+Energy Consumption,https://ourworldindata.org/explorers/energy?facet=none&country=USA~GBR~CHN~OWID_WRL~IND~BRA~ZAF&Total+or+Breakdown=Total&Energy+or+Electricity=Primary+energy&Metric=Per+capita+consumption,Our World in Data,economics,What countires have the highest energy consumption per capita?,map,NA,9/11/23
+Youtube,NA,NA,entertainment,What categories are most watched on youtube?,barplot,ggplot2,9/10/23
+Soccer Fouls,https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2023/2023-04-04/soccer21-22.csv,TidyTuesday,sports,Are fouls called more for traveling teams?,multicolor histogram,base R,9/11/23

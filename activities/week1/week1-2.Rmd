@@ -22,30 +22,8 @@ different amounts of a growth stimulant. The first few rows are printed below --
     tidy data principle.
     
 ```{r}
-plants %>%
-  pivot_longer(starts_with("height")) %>%
-  separate(name, c("tmp", "time"), convert = TRUE) %>%
-  ggplot() +
-    geom_line(aes(time, value, group = plantid)) +
-    facet_wrap(~ treatment)
 ```
 
-
-```{r}
-ggplot() +
-  geom_line(aes(name, value, group = plantid)) +
-  facet_wrap(~ treatment)
-```
-
-    
-```{r}
-data.frame(
-  var = c("height.0-2-1", "height.1-2")
-) %>%
-  separate(var, c("A", "B", "C"), sep = "-")
-```
-
-    
     b. Implement your proposed arrangement from part (a).
     
     c. Using the dataset from (b), design and implement a visualization showing the

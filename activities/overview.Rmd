@@ -183,7 +183,7 @@ interested in this dataset? Please provide a link, so we can refer to the data i
 # September 12, 2023
 
 1. Exercise review
-1. Code demo [City Temperatures]
+1. In-Class Demo [City Temperatures]
 1. In-Class Exercise 1.1
 
 ---
@@ -201,6 +201,20 @@ not form a team by the deadline, you will be randomly assigned one.
 1. Problem set 1 is online.
 
 1. Project Milestone 0 (Forming Groups) is due on September 18.
+
+---
+
+### Beautiful Visualizations - Comments?
+
+.pull-left[
+<img src="figures/exoplanets.png" width=400/>
+]
+
+.pull-right[
+[Source](https://www.behance.net/gallery/78642081/IAU100-exhibition-data-visualization-and-graphics)
+
+[Plot background](https://stackoverflow.com/questions/51255832/how-to-add-an-image-on-ggplot-background-not-the-panel)
+]
 
 ---
 
@@ -246,11 +260,60 @@ with one another?
 # September 14, 2023
 
 1. Exercise review
-1. Code demo [Plant growth]
+1. In-Class Demo [Plant growth]
 1. (If Time) Discussion [When2meet]
 1. [In-Class Exercise 1.2]
 
 ---
 
+### Announcements
+
+1. The description for how to form groups is in Project Milestone 0. If you do
+not form a team by the deadline, you will be randomly assigned one.
+
+1. Problem set 1 is online.
+
+1. Project Milestone 0 (Forming Groups) is due on September 18.
+
+
+---
+
+### Beautiful Visualizations - Comments?
+
+.pull-left[
+<img src="figures/djokovic.jpeg" width=350/>
+]
+
+.pull-right[
+[Source](https://ig.ft.com/sites/novak-djokovic-the-best-tennis-season-ever/)
+]
+
+---
+
 ### Exercise Review
 
+---
+
+### In-Class Demo 1.2
+
+[https://go.wisc.edu/zmts7d](https://go.wisc.edu/zmts7d)
+
+We'll also see how you can submit results using Rmarkdown.
+
+---
+
+### Exercise 1.2
+
+In teams of 2 - 4 people, work through [Concept Map] in the exercise sheet. For
+submission, include a photo of your concept map and summarize the main points
+from your discussion.
+
+---
+
+[Concept Map] Prepare a concept map to summarize the last week of reading
+material. An effective submission will include a thorough coverage of both
+abstract concepts and practical examples, summarized concisely into short
+phrases. It will also include well-justified links between nodes, with text
+explanations for edges whose interpretation might not be obvious at first.
+
+---
